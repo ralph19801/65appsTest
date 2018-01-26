@@ -1,0 +1,1 @@
+{"object": {"dependencies": [{"basedOn": null, "name": "Alamofire", "repositoryURL": "https://github.com/Alamofire/Alamofire.git", "state": {"checkoutState": {"branch": null, "revision": "bc973c5311ce3db3f01a9fcde027fb11fa2254bf", "version": "4.6.0"}, "name": "checkout"}, "subpath": "Alamofire.git-6801331143877184500"}]}, "version": 1}
