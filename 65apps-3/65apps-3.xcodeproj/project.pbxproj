@@ -25,7 +25,6 @@
 /* Begin PBXFileReference section */
 		FD9C42562012967200C3986D /* 65apps-3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "65apps-3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD9C42592012967200C3986D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		FD9C4260201296A000C3986D /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +41,6 @@
 		FD9C424D2012967200C3986D = {
 			isa = PBXGroup;
 			children = (
-				FD9C4260201296A000C3986D /* Package.swift */,
 				FD9C42582012967200C3986D /* 65apps-3 */,
 				FD9C42572012967200C3986D /* Products */,
 			);
